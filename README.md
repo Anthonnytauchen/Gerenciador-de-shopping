@@ -1,8 +1,5 @@
 # Gerenciador-de-shopping
-explique o que e para o que serve
-Claro! Vou explicar o projeto de forma mais detalhada:
 
-O que é
 Este projeto é um Gerenciador de Shopping, desenvolvido como parte da disciplina de Programação 1 - Laboratório 1. O objetivo é criar um sistema que permita gerenciar as lojas de um shopping, facilitando a adição, remoção e listagem de lojas, bem como a realização de algumas operações específicas.
 
 Para que serve
